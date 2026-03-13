@@ -76,4 +76,4 @@ Actionable Growth Recommendations
 
 This project demonstrates practical data analytics skills including KPI analysis, trend evaluation, and business storytelling using data.
 🖥 Dashboard Preview
-![sales-dashboard](dashboard.jfif)
+![sales-dashboard](WhatsApp Image 2026-03-13 at 7.03.13 PM.jpeg)
